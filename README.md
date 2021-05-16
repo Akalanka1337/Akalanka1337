@@ -1,4 +1,4 @@
-[![](https://steamuserimages-a.akamaihd.net/ugc/843710951299831152/06AA0BB055F2707265FEFD31F6B70CFE67B6F25B)](#)
+[![](https://github.com/Akalanka1337/Akalanka1337/raw/main/profile.gif)](#)
 
 ### Languages
 
