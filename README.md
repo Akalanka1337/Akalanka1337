@@ -1,15 +1,15 @@
 [![](https://github.com/Akalanka1337/Akalanka1337/raw/main/profile.gif)](#)
 #
-I am Akalanka,who is very
+I am Akalanka ❤️,who is very
 passionate about web application
 development and application security since I
 was a kid. I have 5+ years of proven
 experience in this field. I am very interested
 in software development, mobile application
-and penetration testing. Apart from that,
+and penetration testing ✔️. Apart from that,
 I'm developing applications and do graphics
-as a Freelancer. Love to explore new things
-every day as a hobby.
+as a Freelancer.🎮 Love to explore new things
+every day as a hobby.🥺
 #
 
 ### Languages
