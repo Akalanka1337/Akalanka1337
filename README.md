@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Akalanka1337/Akalanka1337/raw/main/profile.gif">
+</p>
 [![](https://github.com/Akalanka1337/Akalanka1337/raw/main/profile.gif)](#)
 #
 I am Akalanka ❤️,who is very
