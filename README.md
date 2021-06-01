@@ -37,12 +37,8 @@ every day as a hobby.🥺
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-### Full Stack Projects
-
-#Updating....
-
-### Cybersecurity Projects
+<!-- ### Cybersecurity Projects
 
 [![](https://img.shields.io/badge/-🩸%20WordpressKiller-000)](#)
 [![](https://img.shields.io/badge/-🌊%20God-000)](#)
-
+ -->
