@@ -45,3 +45,7 @@ every day as a hobby.🥺
 [![](https://img.shields.io/badge/-🩸%20WordpressKiller-000)](#)
 [![](https://img.shields.io/badge/-🌊%20God-000)](#)
  -->
+ 
+ ### Follow Me On
+ 
+ [![](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Akalanka1337/)
