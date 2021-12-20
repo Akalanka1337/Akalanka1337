@@ -15,6 +15,13 @@ as a Freelancer.🎮 Love to explore new things
 every day as a hobby.🥺
 #
 
+### Status
+<p align="left">
+  <a href="https://akalanka.uk/api/tracked">
+    <img src="https://discord.c99.nl/widget/theme-2/922338194815582258.png"/>
+     </a>
+</p>
+
 ### Languages
 
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
