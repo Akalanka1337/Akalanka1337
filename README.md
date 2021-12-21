@@ -17,7 +17,7 @@ every day as a hobby.🥺
 
 ### Status
 <p align="left">
-  <a href="https://github.com/Akalanka1337#status">
+  <a href="https://github.com/Akalanka1337?re#status">
     <img src="https://discord.c99.nl/widget/theme-2/922338194815582258.png"/>
      </a>
 </p>
