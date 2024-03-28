@@ -39,7 +39,7 @@ every day as a hobby.🥺
 
 ### Tools & Frameworks
 
-![Laravel](https://img.shields.io/badge/-Laravel?style=flat-square&logo=Laravel&label=Laravel&labelColor=%23111111&color=%23000000)
+![Laravel](https://img.shields.io/badge/-Laravel?style=flat-square&logo=Laravel&label=Laravel&labelColor=%23111111&color=%23000000&link=%23)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
