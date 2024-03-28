@@ -1,5 +1,8 @@
+<h1 align="center">Hello👋, Im Akalanka! </h1>
 <p align="center">
-  <a href="https://www.facebook.com/Akalanka1337/videos/753999635995917/" target="_blank"> <img src="https://github.com/Akalanka1337/Akalanka1337/raw/main/profile.gif"></a>
+  <a href="https://www.facebook.com/Akalanka1337/videos/753999635995917/" target="_blank"> 
+    <img src="https://github.com/Akalanka1337/Akalanka1337/raw/main/profile.gif">
+  </a>
 </p>
 
 #
