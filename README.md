@@ -6,9 +6,6 @@
 </p>
 
 #
-Sure! Here's a short introduction:
-
----
 
 Hi, I'm Akalanka, 🎊 a tech enthusiast and AI aficionado. I love exploring the latest advancements in artificial intelligence and sharing my knowledge through my YouTube channel and Medium articles. Whether it's diving into cutting-edge AI concepts or discussing innovative tech trends, I'm passionate about making complex ideas accessible and exciting. Let's connect and explore the future of technology together!. 🚀
 #
