@@ -6,16 +6,11 @@
 </p>
 
 #
-I am Akalanka ❤️,who is very
-passionate about web application
-development and application security since I
-was a kid. I have 5+ years of proven
-experience in this field. I am very interested
-in software development, mobile application
-and penetration testing ✔️. Apart from that,
-I'm developing applications and do graphics
-as a Freelancer.🎮 Love to explore new things
-every day as a hobby.🥺
+Sure! Here's a short introduction:
+
+---
+
+Hi, I'm Akalanka, 🎊 a tech enthusiast and AI aficionado. I love exploring the latest advancements in artificial intelligence and sharing my knowledge through my YouTube channel and Medium articles. Whether it's diving into cutting-edge AI concepts or discussing innovative tech trends, I'm passionate about making complex ideas accessible and exciting. Let's connect and explore the future of technology together!. 🚀
 #
 
 ### Status
