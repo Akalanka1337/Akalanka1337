@@ -13,12 +13,8 @@ Over the years, I have responsibly identified and reported security vulnerabilit
 | eBay Inc.          | [Security Researchers](https://pages.ebay.com/securitycenter/archived-researchers.html)                                                                                                                 |
 | Intel              | [Intel PDF](#)                                                                                                                 |
 | Sony               | #                                                                                                                 |
-| ESET               | [ESET Smart Security PDF](https://i.imgur.com/SH8muvU.png
-
-)                                                                                                                 |
-| Avira              | [Avira PDF](https://i.imgur.com/6C3Fnux.png
-
-)                                                                                                                 |
+| ESET               | [ESET Smart Security PDF](https://i.imgur.com/SH8muvU.png)                                                                                                                 |
+| Avira              | [Avira PDF](https://i.imgur.com/6C3Fnux.png)                                                                                                                 |
 | WSO2               | [Security Hall of Fame](https://security.docs.wso2.com/en/latest/security-reporting/reward-and-acknowledgement-program/hall-of-fame/)                                                                                                                 |
 | Envato             | #                                                                                                                 |
 | Iconfinder         | #                                                                                                                 |
