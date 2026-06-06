@@ -11,10 +11,14 @@ Over the years, I have responsibly identified and reported security vulnerabilit
 | AT&T               | #                                                                                                                 |
 | DJI                | [DJI Security Contributors](https://security.dji.com/en/contributors)                                                                                                                 |
 | eBay Inc.          | [Security Researchers](https://pages.ebay.com/securitycenter/archived-researchers.html)                                                                                                                 |
-| Intel              | #                                                                                                                 |
+| Intel              | [Intel PDF](#)                                                                                                                 |
 | Sony               | #                                                                                                                 |
-| ESET               | #                                                                                                                 |
-| Avira              | #                                                                                                                 |
+| ESET               | [ESET Smart Security PDF](https://i.imgur.com/SH8muvU.png
+
+)                                                                                                                 |
+| Avira              | [Avira PDF](https://i.imgur.com/6C3Fnux.png
+
+)                                                                                                                 |
 | WSO2               | [Security Hall of Fame](https://security.docs.wso2.com/en/latest/security-reporting/reward-and-acknowledgement-program/hall-of-fame/)                                                                                                                 |
 | Envato             | #                                                                                                                 |
 | Iconfinder         | #                                                                                                                 |
